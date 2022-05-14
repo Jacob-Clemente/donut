@@ -1,0 +1,5 @@
+project: donut
+target: donut
+
+cmds:
+  - cmd: /donut @@
